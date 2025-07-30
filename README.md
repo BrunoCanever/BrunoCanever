@@ -7,7 +7,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCanever&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Bruno Canever da Silva github stats"/> 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoCanever&bg_color=000000&color=FF0000&line=DC143C&point=FF0000&c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoCanever&bg_color=0d1117&color=FF0000&line=DC143C&point=FF0000&c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
