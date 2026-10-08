@@ -10,7 +10,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoCanever&bg_color=0d1117&color=FF0000&line=DC143C&point=FF0000&c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=my+social+networks;)](https://git.io/typing-svg)
 <div align="center">
